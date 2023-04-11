@@ -1,4 +1,4 @@
 -r tests.txt
 
-pytest-sugar==0.5.1
+pytest-sugar==0.9.7
 git+git://github.com/mverteuil/pytest-ipdb.git
